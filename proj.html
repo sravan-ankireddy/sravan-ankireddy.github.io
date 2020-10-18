@@ -8,7 +8,7 @@ layout: default
 In particular, we studied the two limitations of decoders for polar codes: error correction performance and computational complexity. 
 The first decoding algorithm proposed for polar codes, successive cancellation (SC) decoding, performs very poorly compared to its LDPC counterparts. 
 To improve this, we implemented a list decoding algorithm, a generalization of SC decoder where <i> L </i> most probable decoding paths are considered 
-concurrently at each decoding stage. <img src="https://raw.githubusercontent.com/sravan-ankireddy/sravan-ankireddy.github.io/master/images/list_dec_polar_codes_4.png" alt="Illustration of <i> L </i> = 4 Polar Code" align="right" />
+concurrently at each decoding stage. <img src="https://raw.githubusercontent.com/sravan-ankireddy/sravan-ankireddy.github.io/master/images/list_dec_polar_codes_4.png" alt="Illustration of <i> L </i> = 4 Polar Code" />
 .Additionally, a short length Cyclic Redundancy Check (CRC) is added to identify the correct codeword a
 mong <i> L </i> estimates. To reduce the computational complexity, a number of simplifications based on the identification of special nodes have been incorporated, 
 and the Log Likelihood Ration (LLR) update functions have been optimized to reduce the amount of data copying, resulting in improved decoding speed. 
