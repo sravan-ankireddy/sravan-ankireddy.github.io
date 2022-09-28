@@ -4,6 +4,28 @@ layout: default
 
 <h2 {% if site.style == 'dark' %}class="text-white"{% endif %}> Research Projects </h2>
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
+ 
+ <h3 {% if site.style == 'dark' %}class="text-white"{% endif %}> Neual Augmented Min-Sum decoding of Short Block codes </h3>
+<p class="tab"> In the decoding of linear block codes, it was shown
+that noticeable gains in terms of bit error rate can be achieved
+by introducing learnable parameters to the Belief Propagation
+(BP) decoder. Despite the success of these methods, there are
+two key open problems. The first is the lack of analysis for
+channels other than AWGN. The second is the interpretation
+of the weights learned and their effect on the reliability of the
+BP decoder. In this work, we aim to bridge this gap by looking
+at non-AWGN channels such as Extended Typical Urban (ETU)
+channel. We study the effect of entangling the weights and how
+the performance holds across different channel settings for the
+min-sum version of BP decoder.We show that while entanglement
+has little degradation in the AWGN channel, a significant loss
+is observed in more complex channels. We also provide insights
+into the weights learned and their connection to the structure of
+the underlying code. Finally, we evaluate our algorithm on the
+over-the-air channels using Software Defined Radios.
+Manuscript can be found <a href="https://arxiv.org/abs/2205.10684">  here</a> and the source code can be found <a href="https://github.com/sravan-ankireddy/nams">here</a>.</p>
+</div>
+  
 <h3 {% if site.style == 'dark' %}class="text-white"{% endif %}> Master's Thesis : Fast List decoding of Polar Codes </h3>
 <p class="tab"> In this project, I worked on developing efficient encoder and decoder algorithms for polar codes. 
 In particular, we studied the two limitations of decoders for polar codes: error correction performance and computational complexity. 
