@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D candidate in the department of ECE at the University of Texas at Austin, advised by <a href='http://sites.utexas.edu/hkim/'> Hyeji Kim </a>.
-I am broadly interested in problems at the intersection of Deep Learning and Information Theory. My current research interests include leveraging foundation models for learning robust representations from multi-modal datatsets that enable continual learning across models and tasks. Additionally, I am also interested in neural image compression and generative models for synthetic datasets. 
+I am broadly interested in problems at the intersection of Deep Learning and Information Theory. My current research focuses on using vision and foundation model priors to build ultra-low rate image compression schemes. Additionally, I am also interested deep learning for tabular datasets and generative models for synthetic datasets. 
 
 Previously, I also worked on deep learning based channel coding schemes for PHY layer communication. 
 
@@ -28,7 +28,7 @@ I also closely collaborate with <a href='https://ece.princeton.edu/people/pramod
 
 My goal is to combine advances from multiple fields to develop low-complex solutions at the intersection of theory and systems.
 
-In the past, I spent two wonderful years a Research Engineer at <a href='https://www.qualcomm.com/company/corporate-responsibility/purposeful-innovation/wireless-reach/overview'> Qualcomm </a> working in the Physical Layer Modelling team in Bangalore, India. Previously, I graduated with Bachelors and Masters in <a href='https://www.ee.iitm.ac.in/'> Electrical Engineering </a> from <a href='https://www.iitm.ac.in/'> IIT Madras </a> in 2019. I have been extremely fortunate to have worked with <a href='http://www.ee.iitm.ac.in/andrew/'> Dr. Andrew Thangaraj</a> and <a href='http://www.ee.iitm.ac.in/~rganti/'> Dr. Radha Krishna Ganti </a> for my Master's Thesis on efficient encoding and decoding of Polar Codes.
+In the past, I spent two wonderful years as a Research Engineer at <a href='https://www.qualcomm.com/company/corporate-responsibility/purposeful-innovation/wireless-reach/overview'> Qualcomm </a> working in the Physical Layer Modelling team in Bangalore, India. Previously, I graduated with Bachelors and Masters in <a href='https://www.ee.iitm.ac.in/'> Electrical Engineering </a> from <a href='https://www.iitm.ac.in/'> IIT Madras </a> in 2019. I have been extremely fortunate to have worked with <a href='http://www.ee.iitm.ac.in/andrew/'> Dr. Andrew Thangaraj</a> and <a href='http://www.ee.iitm.ac.in/~rganti/'> Dr. Radha Krishna Ganti </a> for my Master's Thesis on efficient encoding and decoding of Polar Codes.
 
 In my spare time I enjoy reading books, watching documentaries, and hiking.
 

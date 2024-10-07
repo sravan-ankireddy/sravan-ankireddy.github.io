@@ -27,9 +27,6 @@
       "endDate": "2024-08",
       "highlights": [
         "Tabular generative models for synthetic data generation to model rare scenarios."
-        // "Developed and trained a diffusion-based foundation model for RF calibration, focusing on synthetic data creation to model failures at the receiver.",
-        // "Reduced data collection needs by over 10x through the use of high-quality synthetic tabular datasets.",
-        // "Improved regression performance by training on synthetic data, achieving ~22% reduction in MSE."
       ]
     },
     {
@@ -46,10 +43,10 @@
     {
       "name": "Qualcomm Research India",
       "url": "https://www.qualcomm.com/research/5g",
-      "team": "Wireless Infrastructure Team",
-      "position": "Systems Engineer",
-      "startDate": "2018-07",
-      "endDate": "2019-02",
+      "team": "WiFi Systems Team",
+      "position": "Research Engineer",
+      "startDate": "2019-07",
+      "endDate": "2021-07",
       "highlights": [
         "Developed and deployed multiple transceiver algorithms for next-generation WiFi chipsets."
       ]
