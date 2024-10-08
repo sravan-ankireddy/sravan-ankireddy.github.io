@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2024-04-06
+date: 2024-02-08
 inline: true
 related_posts: false
 ---
 
-<a href="https://openaccess.thecvf.com/content/CVPR2024W/XAI4CV/papers/Saha_Exploring_Explainability_in_Video_Action_Recognition_CVPRW_2024_paper.pdf">Exploring Explainability in Video Action Recognition</a> accepted as **spotlight** at <a href="https://xai4cv.github.io/workshop_cvpr24">XAI4CV</a> Workshop, CVPR 2024. 
-
+Our team made it to the finals of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists">Qualcomm Innovation Fellowship</a>  (North America) 2024!
