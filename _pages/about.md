@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D candidate in the department of ECE at the University of Texas at Austin, advised by <a href='http://sites.utexas.edu/hkim/'> Hyeji Kim </a>.
-I am broadly interested in problems at the intersection of Deep Learning and Information Theory. My current research focuses on using vision and foundation model priors to build ultra-low rate image compression schemes. Additionally, I am also interested deep learning for tabular datasets and generative models for synthetic datasets. 
+I am broadly interested in problems at the intersection of Deep Learning and Information Theory. My current research focuses on using vision and language foundation model priors to build ultra-low rate image compression schemes. Additionally, I am also interested deep learning for tabular datasets and generative models for synthetic datasets. 
 
 Previously, I also worked on deep learning based channel coding schemes for PHY layer communication. 
 
