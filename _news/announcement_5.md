@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://ieeexplore.ieee.org/abstract/document/10206766">Compressed Error Hybrid ARQ</a> accepted to ISIT 2023. 
+<a href="https://ieeexplore.ieee.org/abstract/document/10206766">Compressed Error Hybrid ARQ</a> accepted to **ISIT 2023**. 
 
